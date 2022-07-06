@@ -39,11 +39,16 @@ Kaggle Data - movies_df DataFrame
 
 ![](/Resources/Deli3_movies_df.png)
 
+### Loading
+
+Data in PgAdmin - movies_query.
+
+![](/Resources/movies_query.png)
+
+Data in PgAdmin - ratings_query.
+
+![](/Resources/ratings_query.png)
+
+
 ---
-## Summary
 
-The analysis shows that there are 50842 jobs that will need to be filled as the "silver tsunami" begins to make an impact, therefore a hiring plan needs to be in place. It also shows that there are 1549 employees who are eligible to participate in a mentorship program, which demonstrates that there are not enough for the total amount of people  
-
-![](Total_Mentors.png)
-
----
