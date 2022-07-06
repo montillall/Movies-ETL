@@ -11,7 +11,7 @@ The objective of the project is to create an automated pipeline that takes in ne
 
 wiki_movies_df DataFrame.
 
-![](/Resources/Deli1_kaggle_metadata.png)
+![](/Resources/Deli1_wiki_movies_df.png)
 
 * The total of eligible retiring employees that were born between 1952 and 1955 is 72458 employees.
 * The majority of eligible retiring employees are currently occupying senior positions which could be assumed that these employees will retired at any given time.
