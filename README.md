@@ -21,6 +21,23 @@ ratings DataFrame
 
 ![](/Resources/Deli1_ratings.png)
 
+### Transforming
+
+Transformed - wiki_movies_df DataFrame.
+
+![](/Resources/Deli2_wiki_movies_df.png)
+
+wiki_movies_df DataFrame to a list
+
+![](/Resources/Deli2_wiki_movies_df_columnslist.png)
+
+Kaggle Data - movies with ratings DataFrame
+
+![](/Resources/Deli3_movies_ratings_df.png)
+
+Kaggle Data - movies_df DataFrame
+
+![](/Resources/Deli3_movies_df.png)
 
 ---
 ## Summary
